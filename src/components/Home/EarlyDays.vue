@@ -3,10 +3,10 @@
         <Titles :viewport="viewport" scene="earlyTitle">
             <h1 class="title" v-if="viewport.is568">
                 EarlyDays<br>
-                (<span class="params">2011,2008</span>)
+                (<span class="params">2013,2017</span>)
             </h1>
             <h1 class="title" v-else>
-                EarlyDays(<span class="params">2008,2011</span>)
+                EarlyDays(<span class="params">2013,2017</span>)
             </h1>
 
             <div class="std">
