@@ -45,12 +45,13 @@
                 </svg>
                 <div class="madeof">
 
-                    <p class="-comment">// Made with</p>
+                    <p class="-comment">// Made with ❤️ By Rokas Rudzianskas using these technologies</p>
 
                     <div class="cols">
                         <ul class="col">
                             <li class="ico">&lt;/&gt;</li>
                             <li>Vue.js</li>
+                            <li>React.js</li>
                             <li>GSAP</li>
                             <li>ScrollMagic</li>
                             <li>Photoshop</li>
@@ -60,10 +61,10 @@
                             <li class="ico">~</li>
                             <li>72 files</li>
                             <li>5MB</li>
-                            <li>+220h of thinking</li>
-                            <li>+76 hours of code</li>
-                            <li>+62 cups of coffee</li>
-                            <li>2 easter eggs</li>
+                            <li>+320h of thinking</li>
+                            <li>+78 hours of code</li>
+                            <li>+84 cups of coffee</li>
+                            <li>One Creative Portfolio</li>
                         </ul>
                         <ul class="col songs">
                             <li class="ico">
@@ -72,29 +73,29 @@
                                 </svg>
                             </li>
                             <li class="bbng">
-                                <a href="https://open.spotify.com/track/1pYBTRBbp3PCcdqoke2QSN" title="Listen to BadBadNotGood" target="_blank">BadBadNotGood</a>
+                                <a href="#" title="Listen to BadBadNotGood" target="_blank">BadBadNotGood</a>
                             </li>
                             <li class="khruangbin">
-                                <a href="https://open.spotify.com/track/2pCnrWHxYVDWN3S4PgNMa0" title="Listen to Khruangbin" target="_blank">Khruangbin</a>
+                                <a href="#" title="Listen to Khruangbin" target="_blank">Khruangbin</a>
                             </li>
                             <li class="toumani">
-                                <a href="https://open.spotify.com/track/30JzduBPzHCnaErOkczzin" title="Listen to Toumani" target="_blank">Toumani
+                                <a href="#" title="Listen to Toumani" target="_blank">Toumani
                                     Diabaté</a>
                             </li>
                             <li class="piazzola">
-                                <a href="https://open.spotify.com/track/5TLObp1kSrfgCZVBIpYGtQ" title="Listen to Piazzola" target="_blank">Astor
+                                <a href="#" title="Listen to Piazzola" target="_blank">Astor
                                     Piazzola</a>
                             </li>
                             <li class="tomita">
-                                <a href="https://open.spotify.com/track/7cwPQGHgob1v9pek8WnQRx" title="Listen to Tomita" target="_blank">Isao
+                                <a href="#" title="Listen to Tomita" target="_blank">Isao
                                     Tomita</a>
                             </li>
                             <li class="sakamoto">
-                                <a href="https://open.spotify.com/track/5I5mTVbYfzg39b0PgVRrTo" title="Listen to Sakamoto" target="_blank">Ryiuchi
+                                <a href="#" title="Listen to Sakamoto" target="_blank">Ryiuchi
                                     Sakamoto</a>
                             </li>
                             <li class="transa">
-                                <a href="https://open.spotify.com/track/2JNNbg38OtPLFoc66isKPQ" title="Listen to Caetano" target="_blank">Caetano
+                                <a href="#" title="Listen to Caetano" target="_blank">Caetano
                                     Veloso</a>
                             </li>
                         </ul>
@@ -103,13 +104,14 @@
                 </div>
 
                 <p>
-                    Thanks for checking my website!<br>
+                    Thanks for checking my portfolio website! You are always welcome to visit my startups -> <a
+                    href="https://brainlyemails.com">Brainlyemails</a>👇  & 👇 <a href="https://www.connexious.com">Connexious</a> ❤️❤️❤️❤️❤️<br>
                     <span class="-comment">// It's a work in progress so check back often!</span>
                 </p>
                 <p class="-big">
                     Check out my
                     <router-link to="/work" title="Work" class="-purple">selected works</router-link>
-                    for more details.
+                    for more details. (coming soon)
                 </p>
                 <p>
                     I am available for new projects and a coffee <span class="-purple">;)</span>
