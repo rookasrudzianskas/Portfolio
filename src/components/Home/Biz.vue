@@ -2,7 +2,7 @@
     <div>
         <Titles :viewport="viewport" scene="bizTitle">
             <h1 class="title">
-                biz(<span class="params">2011,2019</span>)
+                Learning(<span class="params">2013, 2017</span>)
             </h1>
         </Titles>
 
@@ -10,18 +10,18 @@
             <div class="static-container">
                 <div class="std">
                     <p class="-big">
-                        For the past 8 years, I was the <b class="-purple">Head of Product Design and Frontend</b> at
-                        <a href="https://www.bizcommerce.com.br/" target="_blank" title="Visit Biz Commerce's website">biz</a>.
+                        From 2013 for more than 4 years, I was learning and developing <b class="-purple">many front end and full stack applications to build my portfolio and skills</b> at
+                        <a href="https://www.thinkwithgoogle.com/intl/en-cee/" target="_blank" title="Visit Google Commerce's website">Google.com and
+                        </a><a href="https://www.skillshare.com" target="_blank" title="Visit skillshare website"> SkillShare</a>.
                     </p>
                     <p>
-                        A SaaS e-commerce platform with a focus on simplifying and customizing the use of
-                        <a href="https://magento.com/" target="_blank" title="Visit Magento's website" class="disguised-link">Magento</a>.
+                        After that, my big life adventure have started, I have begin searching for epic opportunities abroad
                     </p>
                 </div>
             </div>
             <div class="container">
                 <svg xmlns="http://www.w3.org/2000/svg" id="abiz" viewBox="0 0 100 100" aria-labelledby="aBizTitle aBizDesc">
-                    <title id="aBizTitle">Biz, the BizCommerce mascot</title>
+                    <title id="aBizTitle">Developing applications</title>
                     <desc id="aBizDesc">She is a cute light blue pentagon, holding the Magento logo inside an orange
                         circle
                     </desc>
@@ -347,9 +347,9 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        Throughout these years we delivered over
-                        <span class="-big -purple">200 tools, modules, APIs, themes, and customized projects</span>
-                        for hundreds of online stores and services.
+                        Throughout these learning years I have delivered over
+                        <span class="-big -purple">60, 000 lines of code, 12 code modules, hills of APIs, themes, and customized projects</span>
+                        to build my amazing skill set I do have now. Now I am Wizard, who can create anything!
                     </p>
                 </div>
             </div>
@@ -358,9 +358,9 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        biz currently runs on
+                        Rokas Rudzianskas currently runs on
                         <span class="-big">
-                            <span class="-purple">600+ stores</span>, payment/shipping services and <span class="-purple">thousands of transactions</span> daily.
+                            <span class="-purple">two successful startups -> Brainlyemails and Connexious with hundreds of code lines</span>, two ios/android apps -> Copy&Paste app, Dinder app. Internet Amazon affiliate shop<span class="-purple"> with customers daily.</span>
                         </span>
                     </p>
                 </div>

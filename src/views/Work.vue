@@ -7,40 +7,9 @@
             </h1>
 
             <div class="std">
-                <p class="-gray">// Some special projects explained in details.</p>
+                <p class="-gray">// Some special projects explained in details. Coming in a few days</p>
 
-                <ul class="work-list">
-                    <li>
-                        <router-link to="/work/confianca" title="Confiança Delivery">
-                            <img src="@/assets/work/work-confianca.png" alt="A smartphone showing the home page for the Confiança Delivery project">
-                            <div class="details">
-                                <strong>Confiança Delivery</strong><br>
-                                <span class="-comment">// 2018 - BizCommerce</span><br>
-                                Supermarket online delivery store
-                            </div>
-                        </router-link>
-                    </li>
-                    <li>
-                        <router-link to="/work/admin-panel" title="Admin Panel">
-                            <img src="@/assets/work/work-admin-panel.png" alt="Two white gears inside a purple circle">
-                            <div class="details">
-                                <strong>Admin Panel</strong><br>
-                                <span class="-comment">// 2018 - BizCommerce</span><br>
-                                A deep redesign of Magento's v1 admin panel for BizCommerce
-                            </div>
-                        </router-link>
-                    </li>
-                    <li>
-                        <router-link to="/work/desbravando" title="Desbravando">
-                            <img src="@/assets/work/work-desbravando.png" alt="An acoustic guitar floating on a wavy ocean">
-                            <div class="details">
-                                <strong>Desbravando</strong><br>
-                                <span class="-comment">// 2015 - Pepê Reis</span><br>
-                                CD cover design project
-                            </div>
-                        </router-link>
-                    </li>
-                </ul>
+
             </div>
         </div>
 
