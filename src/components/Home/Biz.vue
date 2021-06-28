@@ -349,7 +349,7 @@
                     <p>
                         Throughout these learning years I have delivered over
                         <span class="-big -purple">60, 000 lines of code, 12 code modules, hills of APIs, themes, and customized projects</span>
-                        to build my amazing skill set I do have now. Now I am Wizard, who can create anything! On '21 my github is counting 186986 visitors already
+                        to build my amazing skill set I do have now. Now I am Wizard, who can create anything! On '21 my github is counting 186986 visitors already.
                     </p>
                 </div>
             </div>

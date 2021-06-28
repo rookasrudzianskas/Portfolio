@@ -16,7 +16,7 @@ const router = new Router({
             name: '.is()',
             component: Home,
             meta: {
-                title: 'iuri.is',
+                title: 'Rokas Rudzianskas',
                 bodyClass: 'page-home',
                 metaTags: [
                     {
@@ -30,7 +30,7 @@ const router = new Router({
                     },
                     {
                         name: 'og:url',
-                        content: 'https://iuri.is/'
+                        content: 'https://www.byrookas.com'
                     },
                     {
                         name: 'og:description',
@@ -39,11 +39,11 @@ const router = new Router({
                     // twitter
                     {
                         name: 'twitter:title',
-                        content: 'iuri.is'
+                        content: 'rookasrudzianskas'
                     },
                     {
                         name: 'twitter:url',
-                        content: 'https://iuri.is/'
+                        content: 'https://www.byrookas.com'
                     },
                     {
                         name: 'twitter:description',
@@ -57,7 +57,7 @@ const router = new Router({
             name: '.about()',
             component: () => import(/* webpackChunkName: "about" */ './views/About.vue'),
             meta: {
-                title: 'iuri.about',
+                title: 'rokasrudzianskas.about',
                 bodyClass: 'page-about',
                 metaTags: [
                     {
@@ -67,11 +67,11 @@ const router = new Router({
                     // facebook
                     {
                         name: 'og:title',
-                        content: 'iuri.about'
+                        content: 'rokasrudzianskas.about'
                     },
                     {
                         name: 'og:url',
-                        content: 'https://iuri.is/about'
+                        content: 'https://www.byrookas.com/about'
                     },
                     {
                         name: 'og:description',
@@ -80,11 +80,11 @@ const router = new Router({
                     // twitter
                     {
                         name: 'twitter:title',
-                        content: 'iuri.about'
+                        content: 'rokasrudzianskas.about'
                     },
                     {
                         name: 'twitter:url',
-                        content: 'https://iuri.is/about'
+                        content: 'https://www.byrookas.com/about'
                     },
                     {
                         name: 'twitter:description',
@@ -98,7 +98,7 @@ const router = new Router({
             name: '.work()',
             component: () => import(/* webpackChunkName: "work" */ './views/Work.vue'),
             meta: {
-                title: 'iuri.work',
+                title: 'rokasrudzianskas.work',
                 bodyClass: 'page-work',
                 metaTags: [
                     {
@@ -108,11 +108,11 @@ const router = new Router({
                     // facebook
                     {
                         name: 'og:title',
-                        content: 'iuri.work'
+                        content: 'rokasrudzianskas.work'
                     },
                     {
                         name: 'og:url',
-                        content: 'https://iuri.is/work'
+                        content: 'https://www.byrookas.com/work'
                     },
                     {
                         name: 'og:description',
@@ -121,11 +121,11 @@ const router = new Router({
                     // twitter
                     {
                         name: 'twitter:title',
-                        content: 'iuri.work'
+                        content: 'rokasrudzianskas.work'
                     },
                     {
                         name: 'twitter:url',
-                        content: 'https://iuri.is/work'
+                        content: 'https://www.byrookas.com/work'
                     },
                     {
                         name: 'twitter:description',
@@ -134,135 +134,13 @@ const router = new Router({
                 ]
             },
         },
-        {
-            path: '/work/confianca',
-            name: `.work('Confiança')`,
-            component: () => import(/* webpackChunkName: "confianca" */ './views/work/Confianca.vue'),
-            meta: {
-                title: `iuri.work('Confiança')`,
-                bodyClass: 'page-confianca',
-                metaTags: [
-                    {
-                        name: 'description',
-                        content: 'A detailed case of Confiança Delivery project.'
-                    },
-                    // facebook
-                    {
-                        name: 'og:title',
-                        content: 'iuri.work(\'Confiança\')'
-                    },
-                    {
-                        name: 'og:url',
-                        content: 'https://iuri.is/work/confianca'
-                    },
-                    {
-                        name: 'og:description',
-                        content: 'A detailed case of Confiança Delivery project.'
-                    },
-                    // twitter
-                    {
-                        name: 'twitter:title',
-                        content: 'iuri.work(\'Confiança\')'
-                    },
-                    {
-                        name: 'twitter:url',
-                        content: 'https://iuri.is/work/confianca'
-                    },
-                    {
-                        name: 'twitter:description',
-                        content: 'A detailed case of Confiança Delivery project.'
-                    },
-                ]
-            },
-        },
-        {
-            path: '/work/admin-panel',
-            name: `.work('Admin Panel')`,
-            component: () => import(/* webpackChunkName: "admin" */ './views/work/Admin.vue'),
-            meta: {
-                title: `iuri.work('Admin Panel')`,
-                bodyClass: 'page-admin-panel',
-                metaTags: [
-                    {
-                        name: 'description',
-                        content: 'A detailed case of Biz Commerce\'s Admin Panel'
-                    },
-                    // facebook
-                    {
-                        name: 'og:title',
-                        content: 'iuri.work(\'Admin Panel\')'
-                    },
-                    {
-                        name: 'og:url',
-                        content: 'https://iuri.is/work/admin-panel'
-                    },
-                    {
-                        name: 'og:description',
-                        content: 'A detailed case of Biz Commerce\'s Admin Panel'
-                    },
-                    // twitter
-                    {
-                        name: 'twitter:title',
-                        content: 'iuri.work(\'Admin Panel\')'
-                    },
-                    {
-                        name: 'twitter:url',
-                        content: 'https://iuri.is/work/admin-panel'
-                    },
-                    {
-                        name: 'twitter:description',
-                        content: 'A detailed case of Biz Commerce\'s Admin Panel'
-                    },
-                ]
-            },
-        },
-        {
-            path: '/work/desbravando',
-            name: `.work('Desbravando')`,
-            component: () => import(/* webpackChunkName: "desbravando" */ './views/work/Desbravando.vue'),
-            meta: {
-                title: `iuri.work('Desbravando')`,
-                bodyClass: 'page-desbravando',
-                metaTags: [
-                    {
-                        name: 'description',
-                        content: 'A detailed case of Pepê Reis\' Desbravando cover art'
-                    },
-                    // facebook
-                    {
-                        name: 'og:title',
-                        content: 'iuri.work(\'Desbravando\')'
-                    },
-                    {
-                        name: 'og:url',
-                        content: 'https://iuri.is/work/desbravando'
-                    },
-                    {
-                        name: 'og:description',
-                        content: 'A detailed case of Pepê Reis\' Desbravando cover art'
-                    },
-                    // twitter
-                    {
-                        name: 'twitter:title',
-                        content: 'iuri.work(\'Desbravando\')'
-                    },
-                    {
-                        name: 'twitter:url',
-                        content: 'https://iuri.is/work/desbravando'
-                    },
-                    {
-                        name: 'twitter:description',
-                        content: 'A detailed case of Pepê Reis\' Desbravando cover art'
-                    },
-                ]
-            },
-        },
+        
         {
             path: '*',
             name: `.err(404)`,
             component: () => import(/* webpackChunkName: "404" */ './views/404.vue'),
             meta: {
-                title: `iuri.err(404)`,
+                title: `rokasrudzianskas.err(404)`,
                 bodyClass: 'page-err404',
                 metaTags: [
                     {
@@ -272,11 +150,11 @@ const router = new Router({
                     // facebook
                     {
                         name: 'og:title',
-                        content: `iuri.err(404)`
+                        content: `rokasrudzianskas.err(404)`
                     },
                     {
                         name: 'og:url',
-                        content: 'https://iuri.is/'
+                        content: 'https://byrookas.com/'
                     },
                     {
                         name: 'og:description',
@@ -285,11 +163,11 @@ const router = new Router({
                     // twitter
                     {
                         name: 'twitter:title',
-                        content: `iuri.err(404)`
+                        content: `rokasrudzianskas.err(404)`
                     },
                     {
                         name: 'twitter:url',
-                        content: 'https://iuri.is/'
+                        content: 'https://byrookas.com/'
                     },
                     {
                         name: 'twitter:description',
