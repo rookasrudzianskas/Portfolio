@@ -15,7 +15,7 @@
                         </a><a href="https://www.skillshare.com" target="_blank" title="Visit skillshare website"> SkillShare</a>.
                     </p>
                     <p>
-                        After that, my big life adventure have started, I have begin searching for epic opportunities abroad
+                        After that, my big life adventure have started, I have began searching for epic opportunities abroad. At 2020 I became the part of Google Exchange Program! At that time my life turned around 180 degrees. They have helped me to start startups and opened the doors to the unbelievable opportunity, now I am two successful startups (Connexious & Brainlyemails) founder and a part of Silicon Valley in the USA!
                     </p>
                 </div>
             </div>
@@ -349,7 +349,7 @@
                     <p>
                         Throughout these learning years I have delivered over
                         <span class="-big -purple">60, 000 lines of code, 12 code modules, hills of APIs, themes, and customized projects</span>
-                        to build my amazing skill set I do have now. Now I am Wizard, who can create anything!
+                        to build my amazing skill set I do have now. Now I am Wizard, who can create anything! On '21 my github is counting 186986 visitors already
                     </p>
                 </div>
             </div>

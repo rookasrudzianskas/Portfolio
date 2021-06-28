@@ -77,10 +77,10 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        Design & illustration.
+                        Creating, Learning & illustration.
                     </p>
                     <p class="-big">
-                        A frontend developer<br>
+                        A Startups Founder and the full stack developer<br>
                         <span class="-purple">with one foothold in arts.</span>
                     </p>
                 </div>
@@ -94,8 +94,8 @@
                         <span class="-purple">Inches</span> & <span class="-purple">pixels.</span>
                     </p>
                     <p>
-                        Illustrating album arts, book covers, and billboards as a freelancer.
-                        And designing websites, online magazines, and news portals at my first web studio.<br>
+                        Illustrating amazing UI&UX, brand looks, and Adobe Creative Cloud artworks as a freelancer.
+                        And creating startups, designing epic websites, growing online projects, and iOS/Android apps creation.<br>
                     </p>
                 </div>
             </div>
@@ -104,9 +104,9 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        We've proudly fueled the starring<br>
-                        of some big Brazilian names such as
-                        <span class="-big -purple"><i>Porta dos Fundos</i>, <i>Kibe Loco</i>, Fhits.tv, <i>Galo Frito</i></span>
+                        I've proudly fueled the starring<br>
+                        of some big USA names such as
+                        <span class="-big -purple"><i>Google</i>, <i>Apple</i>, Adobe Creative, <i>Amazon</i></span>
                         among many others...
                     </p>
                 </div>

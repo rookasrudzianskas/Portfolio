@@ -75,7 +75,7 @@
                         <span class="-purple">Python AI automations, Machine learning, Google Firebase deep secrets, After Effects animations, Graphic arts and Content creation.</span>
                     </p>
                     <p>
-                        All of these subjects have a major impact on how I start and develop my creative processes,
+                        All of these subjects have had a major impact on how I start and develop my creative processes,
                         leading the way on how I view full stack development today.
                     </p>
                 </div>

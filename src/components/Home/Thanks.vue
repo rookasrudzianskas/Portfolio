@@ -45,13 +45,12 @@
                 </svg>
                 <div class="madeof">
 
-                    <p class="-comment">// Made with ❤️ By Rokas Rudzianskas using these technologies</p>
+                    <p class="-comment">// Made with ❤️ By Rokas Rudzianskas using following technologies</p>
 
                     <div class="cols">
                         <ul class="col">
                             <li class="ico">&lt;/&gt;</li>
                             <li>Vue.js</li>
-                            <li>React.js</li>
                             <li>GSAP</li>
                             <li>ScrollMagic</li>
                             <li>Photoshop</li>
@@ -104,8 +103,8 @@
                 </div>
 
                 <p>
-                    Thanks for checking my portfolio website! You are always welcome to visit my startups -> <a
-                    href="https://brainlyemails.com">Brainlyemails</a>👇  & 👇 <a href="https://www.connexious.com">Connexious</a> ❤️❤️❤️❤️❤️<br>
+                    Thanks for checking my portfolio website! You are always welcome to visit my startups -> <br><br> <a
+                    href="https://brainlyemails.com">Brainlyemails (Reimagined way to send the smart emails)</a>👇  & 👇 <a href="https://www.connexious.com">Connexious (Whole new way to develop iOS and adroid apps in the easy way)</a> ❤️❤️❤️❤️❤️<br>
                     <span class="-comment">// It's a work in progress so check back often!</span>
                 </p>
                 <p class="-big">
