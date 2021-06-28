@@ -10,10 +10,10 @@
         <Titles :viewport="viewport" scene="curriculum">
             <h1 class="title" v-if="viewport.is768">
                 Curriculum<br>
-                .vitae(<span class="params">'/.*$/g'</span>)
+                .life(<span class="params">'/.*$/r'</span>)
             </h1>
             <h1 class="title" v-else>
-                CurriculumVitae(<span class="params">'/.*$/g'</span>)
+                CurriculumVitae(<span class="params">'/.*$/r'</span>)
             </h1>
             <div class="std">
                 <p class="-gray">&lt;A life+work showcase&gt;</p>
@@ -31,9 +31,9 @@
         <!--Title: Art Phi Games-->
         <Titles :viewport="viewport" scene="ArtPhiGamesTitle">
             <h1 class="title">
-                <span class="line"><span class="params">`${</span>Art<span class="params">}</span></span>
-                <span class="line"><span class="params">&nbsp;${</span>Philosophy<span class="params">}</span></span>
-                <span class="line"><span class="params">&nbsp;${</span>VideoGames<span class="params">}`</span></span>
+                <span class="line"><span class="params">`${</span>Magician who writes the code, to create unbelievable stuff, you cannot imagine, it could actually exist 🚀<span class="params">}</span></span>
+                <span class="line"><span class="params">&nbsp;${</span>Connexious and Brainlyemails startups Founder and the CEO<span class="params">}`</span></span>
+                <span class="line"><span class="params">&nbsp;${</span>Adobe Creative Cloud Junky<span class="params">}</span></span>
             </h1>
             <div class="std">
                 <p class="-gray">background.bmp</p>
