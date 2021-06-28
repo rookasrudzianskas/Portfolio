@@ -4,11 +4,11 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        Before designing for web, I was creating
+                        Before developing and growing my own startups and SASS web apps and android/ios apps, I was creating
                         <span class="-big -purple">
-                            3D models, matte painting and advertisements
+                            3D models with adobe creative cloud, creepy photoshop artworks and advertisements
                         </span>
-                        for many brands, TV commercials, games...
+                        for myself, to learn and develop my skills set for the big adventures in my life...
                     </p>
                 </div>
             </div>
@@ -72,11 +72,11 @@
                 <div class="std">
                     <p class="-big">
                         And studying
-                        <span class="-purple">Philosophy, Japanese animation, fine arts and video games.</span>
+                        <span class="-purple">Python AI automations, Machine learning, Google Firebase deep secrets, After Effects animations, Graphic arts and Content creation.</span>
                     </p>
                     <p>
                         All of these subjects have a major impact on how I start and develop my creative processes,
-                        leading the way on how I view web development today.
+                        leading the way on how I view full stack development today.
                     </p>
                 </div>
             </div>
