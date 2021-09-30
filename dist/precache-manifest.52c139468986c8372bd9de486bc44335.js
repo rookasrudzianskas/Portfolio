@@ -276,11 +276,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/work.1946b026.js.gz"
   },
   {
-    "revision": "e90d4353f6fead1ec4e7efa28cb08656",
+    "revision": "b83e9c4bf9b845f1ee1af8f8d1521490",
     "url": "/manifest.json"
   },
   {
-    "revision": "96681f57288569cae9e1656d70a88317",
+    "revision": "149f739225bd1777731206bd508b50e6",
     "url": "/manifest.json.gz"
   },
   {
