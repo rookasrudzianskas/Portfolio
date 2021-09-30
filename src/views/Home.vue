@@ -31,7 +31,7 @@
         <!--Title: Art Phi Games-->
         <Titles :viewport="viewport" scene="ArtPhiGamesTitle">
             <h1 class="title">
-                <span class="line"><span class="params">`${</span>Magician who writes the code, to create unbelievable stuff, you cannot imagine, it could actually exist 🚀<span class="params">}</span></span>
+                <span class="line"><span class="params">`${</span>I write the code, to create unbelievable stuff, you cannot imagine 🚀<span class="params">}</span></span>
                 <span class="line"><span class="params">&nbsp;${</span>Connexious and Brainlyemails startups Founder and the CEO<span class="params">}`</span></span>
                 <span class="line"><span class="params">&nbsp;${</span>Adobe Creative Cloud Junky<span class="params">}</span></span>
             </h1>

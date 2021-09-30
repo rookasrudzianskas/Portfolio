@@ -11,8 +11,8 @@
                 <div class="std">
                     <p class="-big">
                         From 2013 for more than 4 years, I was learning and developing <b class="-purple">many front end and full stack applications to build my portfolio and skills</b> at
-                        <a href="https://www.thinkwithgoogle.com/intl/en-cee/" target="_blank" title="Visit Google Commerce's website">Google.com and
-                        </a><a href="https://www.skillshare.com" target="_blank" title="Visit skillshare website"> SkillShare</a>.
+                        <a href="https://www.thinkwithgoogle.com/intl/en-cee/" target="_blank" title="Visit Google Commerce's website">Google.com</a> and
+                        <a href="https://www.skillshare.com" target="_blank" title="Visit skillshare website"> SkillShare</a>.
                     </p>
                     <p>
                         After that, my big life adventure have started, I have began searching for epic opportunities abroad. At 2020 I became the part of Google Exchange Program! At that time my life turned around 180 degrees. They have helped me to start startups and opened the doors to the unbelievable opportunity, now I am two successful startups (Connexious & Brainlyemails) founder and a part of Silicon Valley in the USA!
@@ -348,7 +348,7 @@
                 <div class="std">
                     <p>
                         Throughout these learning years I have delivered over
-                        <span class="-big -purple">60, 000 lines of code, 12 code modules, hills of APIs, themes, and customized projects</span>
+                        <span class="-big -purple">100, 000 lines of code, 12 code modules, hills of APIs, themes, and customized projects</span>
                         to build my amazing skill set I do have now. Now I am Wizard, who can create anything! On '21 my github is counting 186986 visitors already.
                     </p>
                 </div>
@@ -358,7 +358,7 @@
             <div class="static-container">
                 <div class="std">
                     <p>
-                        Rokas Rudzianskas currently runs on
+                        Rokas Rudzianskas currently runs
                         <span class="-big">
                             <span class="-purple">two successful startups -> Brainlyemails and Connexious with hundreds of code lines</span>, two ios/android apps -> Copy&Paste app, Dinder app. Internet Amazon affiliate shop<span class="-purple"> with customers daily.</span>
                         </span>
